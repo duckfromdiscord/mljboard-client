@@ -1,0 +1,10 @@
+{
+    "local_server": "some local maloja ip that cannot be accessed outside of your network",
+    "local_port": 42010,
+    "local_https": false,
+    "remote_server": "ip address or hostname for mljboard",
+    "remote_path": "/ws",
+    "remote_port": 9002,
+    "remote_https": false,
+    "remote_pairing_code": ""
+}
